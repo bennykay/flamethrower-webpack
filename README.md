@@ -1,4 +1,4 @@
-# Webpack Builder for [https://github.com/fireship-io/flamethrower](Flamethrower) 🔥
+# Webpack Builder for [Flamethrower](https://github.com/fireship-io/flamethrower) 🔥
 
 ## Quick Start
 
